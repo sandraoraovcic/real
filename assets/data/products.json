@@ -112,5 +112,119 @@
     },
     "labels": ["bestseller"],
     "inStock": true
+  },
+  {
+    "id": 7,
+    "name": "Cleansing oil",
+    "category": "Skincare",
+    "skinType": "Dry",
+    "brand": "Real Beauty",
+    "rating": 4.8,
+    "price": {
+      "regular": 20,
+      "discount": 15,
+      "currency": "$"
+    },
+    "images": {
+      "main": "assets/images/product7.jpg",
+      "alt": "Cleansing oil for dry skin"
+    },
+    "labels": ["organic","vegan"],
+    "inStock": true
+  },
+  {
+    "id": 8,
+    "name": "Jasmine oil",
+    "category": "Skincare",
+    "skinType": "All",
+    "brand": "Real Beauty",
+    "rating": 4.9,
+    "price": {
+      "regular": 25,
+      "discount": 20,
+      "currency": "$"
+    },
+    "images": {
+      "main": "assets/images/product8.jpg",
+      "alt": "Jasmine oil for skin glow"
+    },
+    "labels": ["bestseller"],
+    "inStock": false
+  },
+  {
+    "id": 9,
+    "name": "Snail Face Cream",
+    "category": "Skincare",
+    "skinType": "Oily",
+    "brand": "Real Beauty",
+    "rating": 4.5,
+    "price": {
+      "regular": 30,
+      "discount": 20,
+      "currency": "$"
+    },
+    "images": {
+      "main": "assets/images/product9.jpg",
+      "alt": "Face cream with snail extract"
+    },
+    "labels": ["hydrating","vegan"],
+    "inStock": true
+  },
+  {
+    "id": 10,
+    "name": "Jasmine Face Serum",
+    "category": "Skincare",
+    "skinType": "All",
+    "brand": "Real Beauty",
+    "rating": 4.9,
+    "price": {
+      "regular": 20,
+      "discount": 15,
+      "currency": "$"
+    },
+    "images": {
+      "main": "assets/images/product10.jpg",
+      "alt": "Face serum for skin glow"
+    },
+    "labels": ["bestseller"],
+    "inStock": true
+  },
+  {
+    "id": 11,
+    "name": "Face Primer",
+    "category": "Makeup",
+    "skinType": "All",
+    "brand": "Real Beauty",
+    "rating": 4.7,
+    "price": {
+      "regular": 25,
+      "discount": 15,
+      "currency": "$"
+    },
+    "images": {
+      "main": "assets/images/product11.jpg",
+      "alt": "Face primer for all skin types"
+    },
+    "labels": ["hydrating"],
+    "inStock": true
+  },
+  {
+    "id": 12,
+    "name": "Hair Growth Oil",
+    "category": "Hair",
+    "skinType": "All",
+    "brand": "Real Beauty",
+    "rating": 4.9,
+    "price": {
+      "regular": 30,
+      "discount": 20,
+      "currency": "$"
+    },
+    "images": {
+      "main": "assets/images/product12.jpg",
+      "alt": "Hair oil for faster growth"
+    },
+    "labels": ["vegan"],
+    "inStock": true
   }
 ]
