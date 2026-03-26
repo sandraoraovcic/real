@@ -1,0 +1,19 @@
+[
+  {
+    "href": "https://instagram.com",
+    "icon": "fab fa-instagram",
+    "label": "Instagram",
+    "target": "_blank"
+  },
+  {
+    "href": "https://facebook.com",
+    "icon": "fab fa-facebook-f",
+    "label": "Facebook",
+    "target": "_blank"
+  },
+  {
+    "href": "mailto:hello@example.com",
+    "icon": "fas fa-envelope",
+    "label": "Email"
+  }
+]

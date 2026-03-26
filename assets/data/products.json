@@ -1,0 +1,116 @@
+[
+  {
+    "id": 1,
+    "name": "Natural Face Cream",
+    "category": "Skincare",
+    "skinType": "Dry",
+    "brand": "Real Beauty",
+    "rating": 4.8,
+    "price": {
+      "regular": 40,
+      "discount": 32,
+      "currency": "$"
+    },
+    "images": {
+      "main": "assets/images/product1.jpg",
+      "alt": "Natural face cream for dry skin"
+    },
+    "labels": ["vegan", "organic"],
+    "inStock": true
+  },
+  {
+    "id": 2,
+    "name": "Face Serum",
+    "category": "Skincare",
+    "skinType": "Sensitive",
+    "brand": "Real Beauty",
+    "rating": 4.9,
+    "price": {
+      "regular": 50,
+      "discount": 42,
+      "currency": "$"
+    },
+    "images": {
+      "main": "assets/images/product2.jpg",
+      "alt": "Face serum for sensitive skin"
+    },
+    "labels": ["vegan", "bestseller"],
+    "inStock": true
+  },
+  {
+    "id": 3,
+    "name": "Organic Foundation",
+    "category": "Makeup",
+    "skinType": "Oily",
+    "brand": "Real Beauty",
+    "rating": 4.3,
+    "price": {
+      "regular": 30,
+      "discount": 25,
+      "currency": "$"
+    },
+    "images": {
+      "main": "assets/images/product3.jpg",
+      "alt": "Organic foundation for oily skin"
+    },
+    "labels": ["organic"],
+    "inStock": true
+  },
+  {
+    "id": 4,
+    "name": "Vegan Lipstick",
+    "category": "Makeup",
+    "skinType": "All",
+    "brand": "Real Beauty",
+    "rating": 4.5,
+    "price": {
+      "regular": 45,
+      "discount": 38,
+      "currency": "$"
+    },
+    "images": {
+      "main": "assets/images/product4.jpg",
+      "alt": "Vegan lipstick neutral shade"
+    },
+    "labels": ["vegan"],
+    "inStock": false
+  },
+  {
+    "id": 5,
+    "name": "Face Mist Spray",
+    "category": "Skincare",
+    "skinType": "Normal",
+    "brand": "Real Beauty",
+    "rating": 4.7,
+    "price": {
+      "regular": 60,
+      "discount": 50,
+      "currency": "$"
+    },
+    "images": {
+      "main": "assets/images/product5.jpg",
+      "alt": "Hydrating face mist spray"
+    },
+    "labels": ["hydrating", "organic"],
+    "inStock": true
+  },
+  {
+    "id": 6,
+    "name": "Setting Powder",
+    "category": "Makeup",
+    "skinType": "All",
+    "brand": "Real Beauty",
+    "rating": 4.6,
+    "price": {
+      "regular": 35,
+      "discount": 30,
+      "currency": "$"
+    },
+    "images": {
+      "main": "assets/images/product6.jpg",
+      "alt": "Setting powder for all skin types"
+    },
+    "labels": ["bestseller"],
+    "inStock": true
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "text": "Home",
+    "href": "#home"
+  },
+  {
+    "text": "About",
+    "href": "#about"
+  },
+  {
+    "text": "Products",
+    "href": "#products-section"
+  },
+  {
+    "text": "Sustainability",
+    "href": "#special-section"
+  },
+  {
+    "text": "Reviews",
+    "href": "#comments-section"
+  },
+  {
+    "text": "Contact",
+    "href": "#contact-form"
+  },
+  {
+    "text": "Author",
+    "href": "pages/autor.html"
+  },
+  {
+    "text": "Documentation",
+    "href": "documentation.pdf",
+    "target": "_blank"
+  },
+  {
+    "text": "Download ZIP",
+    "href": "real.zip",
+    "download": true
+  },
+   {
+    "text": "Cart",
+    "href": "pages/cart.html",
+    "isCart": true
+  }
+]

@@ -45,8 +45,8 @@
 
         <section id="countdown-section">
           <div class="countdown-wrap">
-            <h2>Product Launch Countdown</h2>
-            <p class="countdown-sub">Products launch in November 2026.</p>
+            <h2>Final Sale Countdown</h2>
+            <p class="countdown-sub">Final sale starts in April 2026.</p>
             <div id="countdown" class="countdown-grid">
               <div class="time-box">
                 <span id="cd-days">00</span>
@@ -93,10 +93,45 @@
 
       <!-- Products start-->
 
-        <div id="products-section">
-          <h2>Essential Zen Collection</h2>
-          <div id="products"></div>
+      <section id="products-section" class="py-5">
+        <div class="container">
+          <div class="products-heading text-center">
+            <p>Our products</p>
+            <h2>Essential Zen Collection</h2>
+            <p class="products-description">
+                Explore our carefully selected skincare and makeup products made to support your daily beauty routine.
+            </p>
+          </div>
+
+          <div class="products-controls">
+            <input type="text" id="searchInput" placeholder="Search by product name..." />
+
+            <select id="categoryFilter">
+              <option value="all">All categories</option>
+            </select>
+
+            <select id="skinTypeFilter">
+              <option value="all">All skin types</option>
+            </select>
+
+            <select id="sortSelect">
+              <option value="default">Sort by</option>
+              <option value="price-asc">Price: low to high</option>
+              <option value="price-desc">Price: high to low</option>
+              <option value="rating-desc">Rating: highest first</option>
+              <option value="name-asc">Name: A-Z</option>
+            </select>
+          </div>
+
+          <div id="productsMessage"></div>
+
+          <div id="productsContainer"></div>
+
+          <div class="load-more-wrapper">
+            <button id="loadMoreBtn">Load more</button>
+          </div>
         </div>
+      </section>
 
       <!-- Products end-->
 
@@ -179,6 +214,8 @@
       <!--Footer start-->
       <div id="footer-mount"></div>
       <!--Footer end-->
+
+      <div id="toastMessage"></div>
 
     <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
     <script src="assets/script/main.js"></script>

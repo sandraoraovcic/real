@@ -1,0 +1,14 @@
+[
+  {
+    "iconClass": "fa-solid fa-seedling",
+    "title": "Plant-based"
+  },
+  {
+    "iconClass": "fa-solid fa-skull-crossbones",
+    "title": "Non-toxic"
+  },
+  {
+    "iconClass": "fa-solid fa-shield-dog",
+    "title": "Cruelty-free"
+  }
+]
